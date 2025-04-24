@@ -44,7 +44,7 @@ rss:
     filename: chinese-independent-blogs.opml
 bot:
   feishu:
-    enabled: true
+    enabled: false
     secrets: FEISHU_KEY
     key: xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
   wecom:
@@ -86,6 +86,6 @@ pick_bot:
     key: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
     secret: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
   feishu:
-    enabled: true
+    enabled: false
     secrets: FEISHU_KEY
     key: xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
